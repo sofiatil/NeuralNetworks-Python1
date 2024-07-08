@@ -1,8 +1,8 @@
 # NeuralNetworks-Python1
 
-Developers
-Lachanas Dimitris 
-Tilikidou Sofia 
+Developers:
+Lachanas Dimitris, 
+Tilikidou Sofia, 
 Zilachovinos Apostolos 
 
 
